@@ -281,7 +281,7 @@
          "height":37,
          "id":46,
          "name":"projectnames",
-         "opacity":1,
+         "opacity":0.5,
          "type":"tilelayer",
          "visible":true,
          "width":46,
