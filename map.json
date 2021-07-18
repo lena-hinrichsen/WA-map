@@ -136,6 +136,17 @@
          "id":42,
          "name":"meetingroom-6",
          "opacity":1,
+		 "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"meetingroom-6"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"expert"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -148,6 +159,17 @@
          "id":43,
          "name":"meetingroom-7",
          "opacity":1,
+		 "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"meetingroom-7"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"expert"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -160,6 +182,17 @@
          "id":45,
          "name":"meetingroom-8",
          "opacity":1,
+		 "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"meetingroom-8"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"expert"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
