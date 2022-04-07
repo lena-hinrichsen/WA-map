@@ -328,7 +328,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"meetup.png"
+         "value":"forum.png"
         }, 
         {
          "name":"mapLink",
