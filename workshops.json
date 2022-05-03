@@ -66,7 +66,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"general"
+                 "value":"1"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -130,7 +130,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"general"
+                 "value":"2"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -194,7 +194,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"general"
+                 "value":"3"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -247,7 +247,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":37,
          "id":40,
-         "name":"meetingroom-4",
+         "name":"meetingroom-IPs",
          "opacity":1,
          "properties":[
                 {
@@ -311,7 +311,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":37,
          "id":41,
-         "name":"meetingroom-5",
+         "name":"meetingroom-MPs",
          "opacity":1,
          "properties":[
                 {
@@ -375,7 +375,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":37,
          "id":42,
-         "name":"meetingroom-6",
+         "name":"meetingroom-4",
          "opacity":1,
          "properties":[
                 {
@@ -386,7 +386,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"general"
+                 "value":"4"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -439,7 +439,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":37,
          "id":43,
-         "name":"meetingroom-7",
+         "name":"meetingroom-5",
          "opacity":1,
          "properties":[
                 {
@@ -450,7 +450,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"general"
+                 "value":"5"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -503,7 +503,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":37,
          "id":45,
-         "name":"meetingroom-8",
+         "name":"meetingroom-6",
          "opacity":1,
          "properties":[
                 {
@@ -514,7 +514,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"general"
+                 "value":"6"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -567,7 +567,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":37,
          "id":47,
-         "name":"meetingroom-9",
+         "name":"meetingroom-general",
          "opacity":0.9,
          "properties":[
                 {
